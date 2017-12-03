@@ -1,0 +1,219 @@
+{
+    "lunboData":[
+        {
+            "text": "风格和健康，和繁华和国际化",
+            "time": "2017-11-27",
+            "src": "app/public/img/11.jpg"
+        },
+        {
+            "text": "风格和健康，和繁华和国际化",
+            "time": "2017-11-28",
+            "src": "app/public/img/22.jpg"
+        },
+        {
+            "text": "风格和健康，和繁华和国际化",
+            "time": "2017-11-29",
+            "src": "app/public/img/33.jpg"
+        },
+        {
+            "text": "风格和健康，和繁华和国际化",
+            "time": "2017-11-30",
+            "src": "app/public/img/44.jpg"
+        }
+    ],
+    "iconData": [
+        {
+            "iconCls": "icon-wode",
+            "info": "法国",
+            "iconBg": "#FB7C62"
+        },
+        {
+            "iconCls": "icon-shoucang",
+            "info": "收藏",
+            "iconBg": "#13A8DF"
+        },
+        {
+            "iconCls": "icon-wode",
+            "info": "法国",
+            "iconBg": "#79DACD"
+        },
+        {
+            "iconCls": "icon-shoucang",
+            "info": "收藏",
+            "iconBg": "#79DACD"
+        },
+        {
+            "iconCls": "icon-wode",
+            "info": "法国",
+            "iconBg": "#13A8DF"
+        },
+        {
+            "iconCls": "icon-shoucang",
+            "info": "收藏",
+            "iconBg": "#FED12D"
+        },
+        {
+            "iconCls": "icon-shoucang",
+            "info": "法国",
+            "iconBg": "#FB7C62"
+        },
+        {
+            "iconCls": "icon-wode",
+            "info": "收藏",
+            "iconBg": "#FED12D"
+        }
+    ],
+    "listData": [
+        {
+            "tit": "学生时代", 
+            "src": "app/public/img/1.jpg", 
+            "con": ["法国红酒", "阿贾克斯", "意见缴费", "网上理财", "保险保障", "房屋贷款", "家装保障地方规划环境法国", "汽车贷款", "资金归来", "旅游度假"], 
+            "cls": "collapseOne"
+        },
+        {
+            "tit": "职场生涯", 
+            "src": "app/public/img/2.jpg",
+            "con": ["法国红酒", "阿贾克斯", "意见缴费", "网上理财地方规划环境法国", "保险保障", "房屋贷款", "家装保障", "汽车贷款", "资金归来", "旅游度假"], 
+            "cls": "collapseTwo"
+        },
+        {
+            "tit": "品质家庭", 
+            "src": "app/public/img/3.jpg", 
+            "con": ["法国红酒", "阿贾克斯", "意见缴费", "网上理财", "保险保障", "房屋贷款", "家装保障", "汽车贷款地方规划环境法国", "资金归来", "旅游度假"], 
+            "cls": "collapseThree"
+        },
+        {
+            "tit": "养老保障", 
+            "src": "app/public/img/4.jpg", 
+            "con": ["法国红酒", "阿贾克斯", "意见缴费地方规划环境法国", "网上理财", "保险保障", "房屋贷款", "假家装保障", "汽车贷款", "资金归来", "旅游度假"], 
+            "cls": "collapseFour"
+        }
+    ],
+    "proData": [
+        {
+            "s1": "投资理财",
+            "tit": "交银主题基金",
+            "tit2": "近期季涨幅 3.5%",
+            "cls": "collapseOnes",
+            "more": "更多理财",
+            "iconData": [
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "基金",
+                    "iconBg": "#FB7C62"
+                },
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "贵金属",
+                    "iconBg": "#13A8DF"
+                },
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "外汇",
+                    "iconBg": "#79DACD"
+                },
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "保险",
+                    "iconBg": "#79DACD"
+                }
+            ]
+        },
+        {
+            "s1": "投资理财",
+            "tit": "交银主题基金",
+            "tit2": "近期季涨幅 3.5%",
+            "cls": "collapseTwos",
+            "more": "更多理财",
+            "iconData": [
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "基金",
+                    "iconBg": "#13A8DF"
+                },
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "贵金属",
+                    "iconBg": "#FED12D"
+                },
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "外汇",
+                    "iconBg": "#FB7C62"
+                },
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "保险",
+                    "iconBg": "#FED12D"
+                }
+            ]
+        },
+        {
+            "s1": "投资理财",
+            "tit": "交银主题基金",
+            "tit2": "近期季涨幅 3.5%",
+            "cls": "collapseThrees",
+            "more": "更多理财",
+            "iconData": [
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "基金",
+                    "iconBg": "#FB7C62"
+                },
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "贵金属",
+                    "iconBg": "#13A8DF"
+                },
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "外汇",
+                    "iconBg": "#79DACD"
+                },
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "保险",
+                    "iconBg": "#79DACD"
+                }
+            ]
+        },
+        {
+            "s1": "投资理财",
+            "tit": "交银主题基金",
+            "tit2": "近期季涨幅 3.5%",
+            "cls": "collapseFours",
+            "more": "更多理财",
+            "iconData": [
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "基金",
+                    "iconBg": "#13A8DF"
+                },
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "贵金属",
+                    "iconBg": "#FED12D"
+                },
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "外汇",
+                    "iconBg": "#FB7C62"
+                },
+                {
+                    "iconCls": "icon-wode",
+                    "iconTit": "保险",
+                    "iconBg": "#FED12D"
+                }
+            ]
+        }
+    ],
+    "about": [
+        "农行风貌",
+        "投资者关系",
+        "人才招聘",
+        "新闻中心",
+        "分支机构",
+        "采购公告",
+        "联系我们"
+    ]
+}

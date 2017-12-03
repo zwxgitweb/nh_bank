@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="app/public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="app/public/css/style.css">
+    <link rel="stylesheet" href="app/fonts/iconfont.css">
+    <script src='app/public/js/jquery-2.1.1.min.js'></script>
+    <script src='app/public/js/bootstrap.min.js'></script>
+</head>
+<body>
+    <div id="wrap">
+        <header class="header">
+            <span><img src="app/public/img/head_logo.jpg" alt=""></span>
+            <div class="dropdown">
+                <button class="btn dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown">主题
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu dropdown-menu-right">
+                    <li class="dropdown-header">IT</li>
+                    <li>
+                        <a href="#">Java</a>
+                    </li>
+                    <li>
+                        <a href="#">web</a>
+                    </li>
+                    <li>
+                        <a href="#">UI</a>
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <section class="section">
+            <!-- 轮播模块 -->
+            <div id="carousel-ad" class="carousel slide">
+                <ol class="carousel-indicators"></ol>
+                <div class="carousel-inner"></div>
+            </div>
+            <aside class="aside">
+                <p><i class="iconfont icon-shoucang"></i><em>过分的话好客山东就会好久好久说的过分的话好客山东就会好久好久说的</em><span>2017-11-30</span></p>
+                <p><i class="iconfont icon-shoucang"></i><em>过分的话好客山东就会好久好久说的</em><span>2017-11-30</span></p>
+            </aside>
+            <p class="serve">便捷服务</p>
+            <div class="content">
+                <!-- 图标模块 -->
+                <div class="shows"></div>
+                <p class="tit_logo">
+                    <img src="app/public/img/tit_logo.bmp" alt="">
+                </p>
+                <!-- 折叠列表模块 -->
+                <div class="panel-group accordion1" id="accordion"></div>
+                <!-- 折叠产品列表模块 -->
+                <div class="panel-group accordion2" id="accordion"></div>
+                <!-- 关于农行 -->
+                <div class="aboutData">
+                    <p class="about"><em></em>关于农行</p>
+                    <ul class="abList"></ul>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!--  封装AJAX插件 -->
+    <script src='app/views/ajax.js'></script>
+    <!-- ajax渲染轮播 -->
+    <script src='app/views/autoPlay.js'></script>
+    <!-- ajax渲染图标 -->
+    <script src='app/views/renderIcon.js'></script>
+    <!-- ajax渲染列表 -->
+    <script src='app/views/renderList.js'></script>
+    <!-- ajax渲染产品·服务 -->
+    <script src='app/views/renderProduct.js'></script>
+    <!-- ajax渲染农行data -->
+    <script src='app/views/renderAbout.js'></script>
+    <script>
+        $(function (){
+            $('#carousel-ad').carousel();
+        });
+    </script>
+</body>
+</html>
